@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variant A", "ConsoleApp1\Variant A.csproj", "{E691FC0C-855C-43C0-8B07-10B99A7E8FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variant B", "Variant B\Variant B.csproj", "{8F5BC976-9814-4434-BDC0-025E28A2B8E4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
